@@ -20,4 +20,4 @@ p = [{ $source: {
 
 streams.createStreamProcessor('netattacks', p)
 streams.netattacks.start();
-print 1,2,3,4,5,
+print 1,2,3,4
